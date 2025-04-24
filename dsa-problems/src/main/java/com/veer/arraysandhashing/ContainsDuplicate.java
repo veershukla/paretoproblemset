@@ -1,4 +1,4 @@
-package com.veer;
+package com.veer.arraysandhashing;
 
 public class ContainsDuplicate {
     public static void main(String[] args) {
